@@ -14,3 +14,5 @@ We would like you to:
     - the form data should be JSON-encoded and structured like { "form": { "your data here" } }
     
 3. Display the response in mobile-friendly HTML page, in human-readable format.
+
+If you have any questions or need clarification about what is required, email James at the above email address.
